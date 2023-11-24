@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lktyagi753/Calculator.git/static/css/main.4fc72437.css",
+    "main.js": "/lktyagi753/Calculator.git/static/js/main.50a3fcb2.js",
+    "index.html": "/lktyagi753/Calculator.git/index.html",
+    "main.4fc72437.css.map": "/lktyagi753/Calculator.git/static/css/main.4fc72437.css.map",
+    "main.50a3fcb2.js.map": "/lktyagi753/Calculator.git/static/js/main.50a3fcb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fc72437.css",
+    "static/js/main.50a3fcb2.js"
+  ]
+}
